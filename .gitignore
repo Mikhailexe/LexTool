@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+*.env
+
+credentials.json
+gemini_key.txt
+token.json
+state.json
+
+.idea/
